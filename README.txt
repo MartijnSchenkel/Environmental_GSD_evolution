@@ -1,5 +1,5 @@
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
-# Schenkel MA, Billeter J-C, Beukeboom LW* & Pen I* (2020). Divergent evolution of 
+# Schenkel MA, Billeter J-C, Beukeboom LW* & Pen I* (2022). Divergent evolution of 
 # genetic sex determination mechanisms along environmental gradients.  
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - # 
 
