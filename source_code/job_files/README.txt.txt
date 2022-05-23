@@ -27,3 +27,8 @@
   instead. The unique parameter files and folder structure must be generated with the file 
   ../generate_parameter_files/main_threshold_beta.cpp + associated files.
 
+/2021_07_13_HOTSEX_thresholds_run_sims.sh
+
+  Similar to the HOTSEX_TFE_new_2020_05_11_SAY_WYY.sh script, but with $DATE = 2021_07_13_thresholds
+  instead. The unique parameter files and folder structure must be generated with the file 
+  ../generate_parameter_files/main_thresholds.cpp + associated files.

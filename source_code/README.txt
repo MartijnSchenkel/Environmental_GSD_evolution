@@ -1,6 +1,11 @@
-/figure_5B
+/figure_2B
+
+  Contains source code of the model as used to generate the data in Figure 2B which is based on a 
+  single simulation. For details see documentation on /model below and comments in source code. 
+
+/figure_5
   
-  Contains source code of the model as used to generate the data in Figure 5B which is based on a 
+  Contains source code of the model as used to generate the data in Figure 5 which is based on a 
   single simulation. For details see documentation on /model below and comments in source code. 
   
 
@@ -12,14 +17,14 @@
   randomnumbers.h files. The two main*.cpp files correspond to the following analyses/variables 
   affected:
 
-  * main_threshold_beta.cpp - used for simulations on [Figure 3] 
+  * main_threshold_beta.cpp - used for simulations on [Figure 2] 
     Variables affected (code/paper): 
     * thresF/theta_F
     * FE_diff/(1+beta_T)
-    * muActivAM/[mu_A]
-  * main_SAY_WYY.cpp - used for simulations on [Figure 4, Figure 6]
+    * muActivAM/[mu_D]
+  * main_SAY_WYY.cpp - used for simulations on [Figure 3, Figure 5]
     Variables affected (code/paper):
-    * sSAM/s_M (NB: sSAF = -sSAM / s_F = -s_M)
+    * sSAM/s_M (NB: sSAM = -sSAF = s_A)
     * survivalYY/S_YY
     * muActivAM/[mu_D]
 

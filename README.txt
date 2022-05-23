@@ -1,6 +1,6 @@
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
-# Schenkel MA, Billeter J-C, Beukeboom LW* & Pen I* (2022). Divergent evolution of 
-# genetic sex determination mechanisms along environmental gradients.  
+# Schenkel MA, Billeter J-C, Beukeboom LW* & Pen I* (2022). Divergent evolution of  #
+# genetic sex determination mechanisms along environmental gradients.               #
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - # 
 
 This archive contains files associated with the manuscript referenced above for data storage. Within
@@ -20,8 +20,16 @@ folder. The same applies to any subfolders found within.
   secondary data in principle, but these datasets are much smaller (<50 MB) and are mainly included
   for easy validation if necessary.
 
+/images
+
+  Contains all images for the manuscript.
+
+/manuscript
+
+  Contains a copy of the final manuscript
+
 /source_code
 
   Contains the source code for the model, source code for a small program that generates unique 
-  parameter files, source code for a specific instance of the model, and the job files used to run 
-  all the simulations.
+  parameter files, source code for specific instances of the model, and the job files used to run all 
+  the simulations.
