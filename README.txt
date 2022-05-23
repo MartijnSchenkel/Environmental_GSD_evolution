@@ -26,7 +26,7 @@ folder. The same applies to any subfolders found within.
 
 /manuscript
 
-  Contains a copy of the final manuscript
+  Contains a copy of the manuscript
 
 /source_code
 
